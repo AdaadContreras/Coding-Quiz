@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.btn {
+    border-style: solid;
+    background: red;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-top: 10px;
+    margin-left: 730px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.question {
+    font-size: 30px;
+    text-align: center;
+    border-style: solid;
+    border-radius: 15px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+}
+
+.answers {
+    font-size: 15px;
+    text-align: center;
+    word-spacing: 50px;
+}
