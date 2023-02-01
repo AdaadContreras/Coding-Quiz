@@ -6,4 +6,4 @@ Using JavaScript made all interactions with webpage possible. The link below wil
 
 ![screenshot](./assets/Images/Screenshot%20(24).png)
 
-Deployed page:
+Deployed page: https://adaadcontreras.github.io/Coding-Quiz/
